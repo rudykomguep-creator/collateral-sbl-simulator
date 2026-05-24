@@ -437,7 +437,5 @@ else:
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.markdown("---")
 st.caption(
-    "Built by Steve Rudy Komguep Jouenang — BCom Finance, Telfer School of Management (Dean's List) | "
-    "Incoming MSc Financial Markets & Investments, SKEMA Business School | "
-    "Bloomberg BMC Certified | Algorithmic Futures Trader"
+    "Built by Steve Rudy Komguep Jouenang — BCom Finance, Telfer School of Management (Dean's List) "
 )
